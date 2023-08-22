@@ -1,4 +1,4 @@
-# ChatSync+ (In progress)
+# ChatSync+ 
 
 ChatSync+ is a powerful messaging application built using React.js, Node.js, Express.js, SQL, and socket.io. It provides a comprehensive set of features that enable seamless communication between users. With a fully-fledged authentication and authorization system, ChatSync+ ensures secure access and allows users to customize their profiles with profile pictures.
 
